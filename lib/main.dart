@@ -3,7 +3,7 @@
 import 'package:flutter/material.dart';
 import 'package:to_do_list/pages/home_page.dart';
 
-void main() async {
+void main() {
   runApp(MyApp());
 }
 

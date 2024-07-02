@@ -46,8 +46,6 @@ class _HomePageState extends State<HomePage> {
     }
   }
 
-  void onCancel() {}
-
   void createNewTask() {
     showDialog(
         context: context,

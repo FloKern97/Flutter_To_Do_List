@@ -28,7 +28,9 @@ class DialogBox extends StatelessWidget {
             TextField(
               controller: controller,
               decoration: InputDecoration(
-                  border: OutlineInputBorder(), hintText: "Enter new task..."),
+                  border: OutlineInputBorder(), 
+                  hintText: "Enter new task..."
+                  ),
             ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
